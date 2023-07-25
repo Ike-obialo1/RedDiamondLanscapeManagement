@@ -2,7 +2,7 @@
 This SQL code sets up the database schema for the Red Diamond Lanscapes 
 I developed a management system to efficiently handle various aspects of the company's operations. The database stores essential information about clients, employees, projects, and inventory. The goal of this project was to streamline the company's processes, improve data organization, and enable data-driven decision-making.
 -- Create the Landscaping Company Management System database
-CREATE DATABASE LandscapingCompanyDB;
+CREATE DATABASE Red Diamond LandscapesDB;
 
 -- Use the database
 USE Red Diamond LandscapesDB;
